@@ -48,34 +48,7 @@ import time
 from collections import Counter
 ```
 
-    Collecting https://github.com/scikit-learn-contrib/scikit-learn-extra/archive/master.zip
-      Downloading https://github.com/scikit-learn-contrib/scikit-learn-extra/archive/master.zip
-    [K     | 1.3MB 239.3MB/s
-        Complete output from command python setup.py egg_info:
-        Traceback (most recent call last):
-          File "<string>", line 1, in <module>
-          File "/tmp/pip-6g2yxyr9-build/setup.py", line 11, in <module>
-            from Cython.Build import cythonize
-        ModuleNotFoundError: No module named 'Cython'
-        
-        ----------------------------------------
-    [31mCommand "python setup.py egg_info" failed with error code 1 in /tmp/pip-6g2yxyr9-build/[0m
 
-
-
-    ---------------------------------------------------------------------------
-
-    ModuleNotFoundError                       Traceback (most recent call last)
-
-    <ipython-input-1-c1549394ded6> in <module>
-         16 from sklearn.datasets import fetch_openml
-         17 from sklearn.cluster import KMeans
-    ---> 18 from sklearn_extra.cluster import KMedoids
-         19 from sklearn.model_selection import train_test_split
-         20 from sklearn.cluster import AgglomerativeClustering
-
-
-    ModuleNotFoundError: No module named 'sklearn_extra'
 
 
 ---
