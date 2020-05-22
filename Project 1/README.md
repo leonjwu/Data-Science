@@ -1,5 +1,4 @@
-# Setup
-General setup and imports
+# Project 1: Regression and classification methods. First task involves data cleaning and exploration. Second task explores performing regression using Linear and Ridge Regression as well as classification using Logistic Regression and Naïve Bayes.
 
 
 ```python
@@ -399,7 +398,7 @@ plt.show()
 
 
 
-![png](Wu01190736_files/Wu01190736_9_1.png)
+![png](Project%201_files/Project%201_9_1.png)
 
 
 ## 1.2.2
@@ -431,7 +430,7 @@ plt.show()
 ```
 
 
-![png](Wu01190736_files/Wu01190736_11_0.png)
+![png](Project%201_files/Project%201_11_0.png)
 
 
 ## 1.2.3
@@ -459,7 +458,7 @@ plt.show()
 ```
 
 
-![png](Wu01190736_files/Wu01190736_13_0.png)
+![png](Project%201_files/Project%201_13_0.png)
 
 
 # 1.3
@@ -481,7 +480,7 @@ pair_scatter(climb, list(weather_columns))
 ```
 
 
-![png](Wu01190736_files/Wu01190736_15_0.png)
+![png](Project%201_files/Project%201_15_0.png)
 
 
 # 1.4
@@ -531,7 +530,7 @@ print(f'{split}:{split2}')
 ```
 
 
-![png](Wu01190736_files/Wu01190736_17_0.png)
+![png](Project%201_files/Project%201_17_0.png)
 
 
     train:validation
@@ -699,11 +698,11 @@ y_test_pred_ridge = ridge_models[index].predict(X_test_scaled)
 
 
 
-![png](Wu01190736_files/Wu01190736_25_1.png)
+![png](Project%201_files/Project%201_25_1.png)
 
 
 
-![png](Wu01190736_files/Wu01190736_25_2.png)
+![png](Project%201_files/Project%201_25_2.png)
 
 
 ### Linear Regression vs Ridge Regression Summary
@@ -980,11 +979,11 @@ for data_type, data in y_data.items():
 
 
 
-![png](Wu01190736_files/Wu01190736_31_1.png)
+![png](Project%201_files/Project%201_31_1.png)
 
 
 
-![png](Wu01190736_files/Wu01190736_31_2.png)
+![png](Project%201_files/Project%201_31_2.png)
 
 
     t* = 0.559
@@ -1137,11 +1136,11 @@ for data_type, data in y_data.items():
 
 
 
-![png](Wu01190736_files/Wu01190736_34_1.png)
+![png](Project%201_files/Project%201_34_1.png)
 
 
 
-![png](Wu01190736_files/Wu01190736_34_2.png)
+![png](Project%201_files/Project%201_34_2.png)
 
 
     t* = 0.562
