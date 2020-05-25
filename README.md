@@ -1,6 +1,6 @@
 # Imperial College Mathematics: Data Science Module
 
-## Module Grade: 95%. Ranked 1st in cohort of 200
+## Module Grade: 94%. Ranked 1st in cohort of 200
 
 Click on the Project folders to view the Jupyter notebooks.
 
