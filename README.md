@@ -1,4 +1,4 @@
-# Imperial College Mathemtics: Data Science Module
+# Imperial College Mathematics: Data Science Module
 
 ## Module Grade: 95%. Ranked 1st in cohort of 200
 
