@@ -1,7 +1,7 @@
 # Data Science Projects
 
 ---
-## Credibility: Some projects below were part of Year 3 Imperial College Mathematics Data Science Module, in which I ranked 1st out of 200 students
+## Credibility: Some projects below were submitted as part of the Year 3 Imperial College Mathematics Data Science Module, in which I ranked 1st out of 200 students
 ---
 
 # [Project 1: Exploring unsupervised graph-based learning methods, clustering methods and neural networks in Python](https://github.com/leonwu4951/Data-Science/blob/master/Graph-Cluster-NN/)
