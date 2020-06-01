@@ -5,7 +5,7 @@
 - Data Balancing and Standardisation Methodologies for predicting car ratings
 - Explaining K-Fold Stratified Cross-Validation
 - Random Forest optimasation for number of trees, depth and number of split predictors
-- SVM optimisation of kernels (linear, polynomial and RBF)
+- Support Vector Machines: optimisation of kernels (linear, polynomial and RBF)
 - Neural Network optimsation for batch size, learning rate and dropout
 
 Number of Trees for Random Forest  |  Hyperparameters of RBF kernel SVM

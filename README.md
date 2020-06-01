@@ -1,11 +1,55 @@
-# Data Science Projects - Ranked 1st in Year 3 Imperial College Mathematics (200 students)
+# Data Science Projects Portfolio
 
-## Module Grade: 94%. Ranked 1st in cohort of 200
+### Ranked 1st in Year 3 Imperial College Mathematics Data Science Module (200 students)
 
-## Click on the Project folders to view the Jupyter notebooks.
+# [Exploring unsupervised graph-based learning methods, clustering methods and neural networks](https://github.com/leonwu4951/Data-Science/blob/master/Graph-Cluster-NN/)
 
-#### Folders:
-- Project 1: Regression and classification methods. First task involves data cleaning and exploration. Second task explores performing regression using Linear and Ridge Regression as well as classification using Logistic Regression and Naïve Bayes.
-- Project 2: Exploring supervised Random Forests, Support Vector Machines and Neural Network models for classification on noisy data.
-- Project 3: Exploring unsupervised graph methods, K-Means and comparison with supervised Multi-Layer Perceptron Neural Network as well as Convolutional Neural Networks.
+---
+## Overview
+- Clustering of academic papers using K-Means, comparing different scoring metrics and analyzing optimal number of clusters and randomness in K-Means
+- Graph-based learning methods for clustering including community detection and centrality measures
+- Image classification of clothing items using unsupervised methods
+- Used PCA to visualise clustering of clothing items and centroids
+- Comparison of kNN, hierachical clustering and neural networks for supervised image classification
+- Comparison of MLP neural networks and CNNs
+- Alteration of CNNs using dropout, other layers and alterations to kernel sizes to increase accuracy
+- K-Fold Stratified Cross-Validation used throughout
+
+Community Detection using CNM  |  Clustering visualised with PCA
+:-------------------------:|:-------------------------:
+![](https://github.com/leonwu4951/Data-Science/blob/master/Graph-Cluster-NN/Project%203_files/Project%203_73_0.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/Graph-Cluster-NN/Project%203_files/Project%203_121_0.png)
+---
+
+
+# [Exploring supervised Random Forests, Support Vector Machines and Neural Network in-depth for classification on noisy data](https://github.com/leonwu4951/Data-Science/blob/master/RF-SVM-NN/)
+
+---
+## Overview
+- Data Balancing and Standardisation Methodologies for predicting car ratings
+- Explaining K-Fold Stratified Cross-Validation
+- Random Forest optimasation for number of trees, depth and number of split predictors
+- Support Vector Machines: optimisation of kernels (linear, polynomial and RBF)
+- Neural Network optimsation for batch size, learning rate and dropout
+
+Number of Trees for Random Forest  |  Hyperparameters of RBF kernel SVM
+:-------------------------:|:-------------------------:
+![](https://github.com/leonwu4951/Data-Science/blob/master/RF-SVM-NN/Project%202_files/Project%202_32_0.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/RF-SVM-NN/Project%202_files/Project%202_71_0.png)
+---
+
+# [Exporing regression and classification methods including ridge and logitstic regression and Naïve Bayes classifiers](https://github.com/leonwu4951/Data-Science/blob/master/Regression-Classification/)
+---
+## Overview
+- Goal: Predicting climbing success rate from weather predictors
+- Data cleaning using Pandas
+- Exploratory data analysis
+- Compared regression methods including linear and ridge
+- Compared classifiers including Logistic Regression and Naïve Bayes using different metrics
+
+Ridge Regression hyperparameter tuning (CV)  |  Ridge Predictors against penalty parameter
+:-------------------------:|:-------------------------:
+![](https://github.com/leonwu4951/Data-Science/blob/master/Regression-Classification/Project%201_files/Project%201_25_1.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/Regression-Classification/Project%201_files/Project%201_25_2.png)
+---
+
+
+
 
