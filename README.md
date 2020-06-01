@@ -1,6 +1,6 @@
 # Data Science Projects
 
-### Coursework Submissions Ranked 1st in Year 3 Imperial College Mathematics Data Science Module (200 students)
+### (Coursework Submissions Ranked 1st in Year 3 Imperial College Mathematics Data Science Module (200 students))
 
 ---
 # [Project 1: Exploring unsupervised graph-based learning methods, clustering methods and neural networks in Python](https://github.com/leonwu4951/Data-Science/blob/master/Graph-Cluster-NN/)
