@@ -2389,7 +2389,7 @@ plt.show()
 
 ---
 ---
-# Task 2: Classification of a set of images
+# Classification of a set of images
 ---
 ---
 
