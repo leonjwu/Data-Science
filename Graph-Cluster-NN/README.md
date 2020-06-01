@@ -1,4 +1,4 @@
-# Exploring unsupervised graph-based learning methods, clustering methods and Neural Networks (Multi-Layer Perceptron and Convolutional)
+# Exploring unsupervised graph-based learning methods, clustering methods and neural networks
 
 ---
 ## Overview
@@ -14,57 +14,6 @@ Community Detection using CNM  |  Clustering visualised with PCA
 :-------------------------:|:-------------------------:
 ![](https://github.com/leonwu4951/Data-Science/blob/master/Graph-Cluster-NN/Project%203_files/Project%203_73_0.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/Graph-Cluster-NN/Project%203_files/Project%203_121_0.png)
 ---
-
-
-```python
-# All Imports
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import matplotlib.cm as cm
-from matplotlib.offsetbox import OffsetImage
-from matplotlib.offsetbox import AnnotationBbox
-import seaborn as sns
-from operator import itemgetter
-sns.set()
-
-!pip install https://github.com/scikit-learn-contrib/scikit-learn-extra/archive/master.zip
-import sklearn
-import sklearn.svm as svm
-from sklearn.model_selection import StratifiedKFold
-from sklearn.datasets import fetch_openml
-from sklearn.cluster import KMeans
-from sklearn_extra.cluster import KMedoids
-from sklearn.model_selection import train_test_split
-from sklearn.cluster import AgglomerativeClustering
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import calinski_harabasz_score as CH_score
-from sklearn.metrics import davies_bouldin_score as DB_score
-from sklearn.metrics import silhouette_score, silhouette_samples
-from sklearn.metrics import confusion_matrix, classification_report, accuracy_score,\
-     precision_score, recall_score, f1_score
-from sklearn.metrics import confusion_matrix, classification_report, accuracy_score,\
-     precision_score, recall_score, f1_score
-from sklearn.metrics import adjusted_rand_score, adjusted_mutual_info_score
-
-from scipy.cluster.hierarchy import dendrogram
-import scipy.ndimage
-import networkx as nx
-from networkx.algorithms.community.modularity_max import greedy_modularity_communities as CNM
-
-import torch
-import torch.nn as nn
-import torch.utils.data
-import torch.nn.functional as F
-from torchvision.transforms.functional import resize
-
-from google.colab import drive
-import time
-from collections import Counter
-```
-
-
-
 
 ---
 ---
@@ -973,7 +922,7 @@ df_table
 
 
 ### Final Thoughts:
-- **From the low scoring silhouette plots, the skewed distribution of cluster sizes and the CH score gradient plot, it seems as if a more optimal clustering might be less than what was calculated as the 'optimal' clustering as per the assignment by choosing the first clustering with CH score < 7.**
+- **From the low scoring silhouette plots, the skewed distribution of cluster sizes and the CH score gradient plot, it seems as if a more optimal clustering might be less than what was calculated as the 'optimal' clustering by choosing the first clustering with CH score < 7.**
 
 ### Randomness in K-means clustering
 - As mentioned before, the K-means is not likely to converge to the global minimum, and so it will likely converge to just a local minimum. The algorithm is sensitive to the initial random clustering of the points, and will likely yield different results each time it is run.
