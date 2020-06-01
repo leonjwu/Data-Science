@@ -2,7 +2,7 @@
 
 ## Module Grade: 94%. Ranked 1st in cohort of 200
 
-Click on the Project folders to view the Jupyter notebooks.
+## Click on the Project folders to view the Jupyter notebooks.
 
 #### Folders:
 - Project 1: Regression and classification methods. First task involves data cleaning and exploration. Second task explores performing regression using Linear and Ridge Regression as well as classification using Logistic Regression and Naïve Bayes.
