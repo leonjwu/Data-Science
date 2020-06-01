@@ -1,4 +1,17 @@
-# Project 1: Regression and classification methods. First task involves data cleaning and exploration. Second task explores performing regression using Linear and Ridge Regression as well as classification using Logistic Regression and Naïve Bayes.
+# Exporing regression and classification methods including ridge and logitstic regression and Naïve Bayes classifiers
+---
+## Overview
+- Goal: Predicting climbing success rate from weather predictors
+- Data cleaning using Pandas
+- Exploratory data analysis
+- Compared regression methods including linear and ridge
+- Compared classifiers including Logistic Regression and Naïve Bayes using different metrics
+
+Ridge Regression hyperparameter tuning (CV)  |  Ridge Predictors against penalty parameter
+:-------------------------:|:-------------------------:
+![](https://github.com/leonwu4951/Data-Science/blob/master/Regression-Classification/Project%201_files/Project%201_25_1.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/Regression-Classification/Project%201_files/Project%201_25_2.png)
+---
+
 
 
 ```python

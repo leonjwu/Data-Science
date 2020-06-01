@@ -1,4 +1,18 @@
-# Exploring supervised Random Forests, Support Vector Machines and Neural Network models for classification on noisy data.
+# Exploring supervised Random Forests, Support Vector Machines and Neural Network in-depth for classification on noisy data.
+
+---
+## Overview
+- Data Balancing and Standardisation Methodologies for predicting car ratings
+- Explaining K-Fold Stratified Cross-Validation
+- Random Forest optimasation for number of trees, depth and number of split predictors
+- SVM optimisation of kernels (linear, polynomial and RBF)
+- Neural Network optimsation for batch size, learning rate and dropout
+
+Number of Trees for Random Forest  |  Hyperparameters of RBF kernel SVM
+:-------------------------:|:-------------------------:
+![](https://github.com/leonwu4951/Data-Science/blob/master/RF-SVM-NN/Project%202_files/Project%202_32_0.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/RF-SVM-NN/Project%202_files/Project%202_71_0.png)
+---
+
 
 # Random Forests, SVMs and Neural Networks 
 In this notebook, three classifiers will be tuned and compared for the classification of cars using the given dataset.

@@ -9,6 +9,7 @@
 - Comparison of kNN, hierachical clustering and neural networks for supervised image classification
 - Comparison of MLP neural networks and CNNs
 - Alteration of CNNs using dropout, other layers and alterations to kernel sizes to increase accuracy
+- K-Fold Stratified Cross-Validation used throughout
 
 Community Detection using CNM  |  Clustering visualised with PCA
 :-------------------------:|:-------------------------:
