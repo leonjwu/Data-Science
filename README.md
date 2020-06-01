@@ -1,4 +1,4 @@
-# Imperial College Mathematics: Data Science Module
+# Data Science Projects - Ranked 1st in Year 3 Imperial College Mathematics (200 students)
 
 ## Module Grade: 94%. Ranked 1st in cohort of 200
 
