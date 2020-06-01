@@ -1,4 +1,4 @@
-# Project 3: Exploring unsupervised graph methods, K-Means and comparison with supervised Multi-Layer Perceptron Neural Network as well as Convolutional Neural Networks.
+# Exploring unsupervised graph methods, K-Means and comparison with supervised Multi-Layer Perceptron Neural Network as well as Convolutional Neural Networks.
 
 
 ```python
@@ -53,7 +53,7 @@ from collections import Counter
 
 ---
 ---
-# Task 1: Unsupervised learning: text documents with citation graph
+# Unsupervised learning: text documents with citation graph
 ---
 ---
 
