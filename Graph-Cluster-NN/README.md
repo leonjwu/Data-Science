@@ -12,7 +12,7 @@
 
 Community Detection using CNM  |  Clustering visualised with PCA
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Data-Science/blob/master/Project%203/Project%203_files/Project%203_73_0.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/Project%203/Project%203_files/Project%203_121_0.png)
+![](https://github.com/leonwu4951/Data-Science/blob/master/Graph-Cluster-NN/Project%203_files/Project%203_73_0.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/Graph-Cluster-NN/Project%203_files/Project%203_121_0.png)
 ---
 
 
