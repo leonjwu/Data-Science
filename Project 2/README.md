@@ -1,4 +1,4 @@
-# Project 2: Exploring supervised Random Forests, Support Vector Machines and Neural Network models for classification on noisy data.
+# Exploring supervised Random Forests, Support Vector Machines and Neural Network models for classification on noisy data.
 
 # Random Forests, SVMs and Neural Networks 
 In this notebook, three classifiers will be tuned and compared for the classification of cars using the given dataset.
