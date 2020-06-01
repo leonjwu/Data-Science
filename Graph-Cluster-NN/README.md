@@ -1,4 +1,19 @@
-# Exploring unsupervised graph methods, K-Means and comparison with supervised Multi-Layer Perceptron Neural Network as well as Convolutional Neural Networks.
+# Exploring unsupervised graph-based learning methods, clustering methods and Neural Networks (Multi-Layer Perceptron and Convolutional)
+
+---
+## Overview
+- Clustering of academic papers using K-Means, comparing different scoring metrics and analyzing optimal number of clusters and randomness in K-Means
+- Graph-based learning methods for clustering including community detection and centrality measures
+- Image classification of clothing items using unsupervised methods
+- Used PCA to visualise clustering of clothing items and centroids
+- Comparison of kNN, hierachical clustering and neural networks for supervised image classification
+- Comparison of MLP neural networks and CNNs
+- Alteration of CNNs using dropout, other layers and alterations to kernel sizes to increase accuracy
+
+Community Detection using CNM  |  Clustering visualised with PCA
+:-------------------------:|:-------------------------:
+![](https://github.com/leonwu4951/Data-Science/blob/master/Project%203/Project%203_files/Project%203_73_0.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/Project%203/Project%203_files/Project%203_121_0.png)
+---
 
 
 ```python
