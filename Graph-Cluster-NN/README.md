@@ -1,4 +1,4 @@
-# Exploring unsupervised graph-based learning methods, clustering methods and neural networks
+# Exploring unsupervised graph-based learning methods, clustering methods and neural networks for clothing image classification and academic paper clustering
 
 ---
 ## Overview
