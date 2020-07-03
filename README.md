@@ -1,6 +1,8 @@
 # Data Science Projects
 
-# [Project 1: Exploring unsupervised graph-based learning methods, clustering methods and neural networks for clothing image classification and academic paper clustering in Python](https://github.com/leonwu4951/Data-Science/blob/master/Graph-Cluster-NN/)
+## Credibility: Some projects below were submitted as part of the Year 3 Imperial College Mathematics Data Science Module, in which I ranked 1st in the year
+
+# [Project 1: Exploring unsupervised graph-based learning methods, clustering methods and neural networks for clothing image classification and academic paper clustering in Python](https://github.com/leonjwu/Data-Science/blob/master/Graph-Cluster-NN/)
 
 ## Overview
 - Clustering of academic papers using K-Means, comparing different scoring metrics and analyzing optimal number of clusters and randomness in K-Means
@@ -14,12 +16,12 @@
 
 Community Detection using CNM  |  Clustering visualised with PCA
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Data-Science/blob/master/Graph-Cluster-NN/Project%203_files/Project%203_73_0.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/Graph-Cluster-NN/Project%203_files/Project%203_121_0.png)
+![](https://github.com/leonjwu/Data-Science/blob/master/Graph-Cluster-NN/Project%203_files/Project%203_73_0.png)  |  ![](https://github.com/leonjwu/Data-Science/blob/master/Graph-Cluster-NN/Project%203_files/Project%203_121_0.png)
 ---
 
 
 ---
-# [Project 2: Exploring supervised Random Forests, Support Vector Machines and Neural Network in-depth for classification on noisy data in Python](https://github.com/leonwu4951/Data-Science/blob/master/RF-SVM-NN/)
+# [Project 2: Exploring supervised Random Forests, Support Vector Machines and Neural Network in-depth for classification on noisy data in Python](https://github.com/leonjwu/Data-Science/blob/master/RF-SVM-NN/)
 
 ## Overview
 - Data Balancing and Standardisation Methodologies for predicting car ratings
@@ -30,12 +32,12 @@ Community Detection using CNM  |  Clustering visualised with PCA
 
 Number of Trees for Random Forest  |  Hyperparameters of RBF kernel SVM
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Data-Science/blob/master/RF-SVM-NN/Project%202_files/Project%202_32_0.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/RF-SVM-NN/Project%202_files/Project%202_71_0.png)
+![](https://github.com/leonjwu/Data-Science/blob/master/RF-SVM-NN/Project%202_files/Project%202_32_0.png)  |  ![](https://github.com/leonjwu/Data-Science/blob/master/RF-SVM-NN/Project%202_files/Project%202_71_0.png)
 ---
 
 
 ---
-# [Project 3: Exporing regression and classification methods including ridge and logitstic regression and Naïve Bayes classifiers in Python](https://github.com/leonwu4951/Data-Science/blob/master/Regression-Classification/)
+# [Project 3: Exporing regression and classification methods including ridge and logitstic regression and Naïve Bayes classifiers in Python](https://github.com/leonjwu/Data-Science/blob/master/Regression-Classification/)
 
 ## Overview
 - Goal: Predicting climbing success rate from weather predictors
@@ -46,11 +48,11 @@ Number of Trees for Random Forest  |  Hyperparameters of RBF kernel SVM
 
 Ridge Regression hyperparameter tuning (CV)  |  Ridge Predictors against penalty parameter
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Data-Science/blob/master/Regression-Classification/Project%201_files/Project%201_25_1.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/Regression-Classification/Project%201_files/Project%201_25_2.png)
+![](https://github.com/leonjwu/Data-Science/blob/master/Regression-Classification/Project%201_files/Project%201_25_1.png)  |  ![](https://github.com/leonjwu/Data-Science/blob/master/Regression-Classification/Project%201_files/Project%201_25_2.png)
 ---
 
 ---
-# [Project 4: Recommender System for Academic Papers using Multidimensional Scaling in R](https://github.com/leonwu4951/Paper-Configurations)
+# [Project 4: Recommender System for Academic Papers using Multidimensional Scaling in R](https://github.com/leonjwu/Paper-Configurations)
 
 ## Overview
 - Goal: Reveal configurations of academic papers so that a user can find targeted lists of research materials
@@ -61,7 +63,7 @@ Ridge Regression hyperparameter tuning (CV)  |  Ridge Predictors against penalty
 
 Word Counts in Papers  |  Heatmap of Word Frequencies for Each Paper
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Paper-Configurations/blob/master/figures/1.jpg)  |  ![](https://github.com/leonwu4951/paper-configurations/blob/master/figures/2.png)
+![](https://github.com/leonjwu/Paper-Configurations/blob/master/figures/1.jpg)  |  ![](https://github.com/leonjwu/paper-configurations/blob/master/figures/2.png)
 ---
 
 
