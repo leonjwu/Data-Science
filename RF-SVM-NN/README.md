@@ -10,7 +10,7 @@
 
 Number of Trees for Random Forest  |  Hyperparameters of RBF kernel SVM
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Data-Science/blob/master/RF-SVM-NN/Project%202_files/Project%202_32_0.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/RF-SVM-NN/Project%202_files/Project%202_71_0.png)
+![](https://github.com/leonjwu/Data-Science/blob/master/RF-SVM-NN/Project%202_files/Project%202_32_0.png)  |  ![](https://github.com/leonjwu/Data-Science/blob/master/RF-SVM-NN/Project%202_files/Project%202_71_0.png)
 ---
 
 
