@@ -9,7 +9,7 @@
 
 Ridge Regression hyperparameter tuning (CV)  |  Ridge Predictors against penalty parameter
 :-------------------------:|:-------------------------:
-![](https://github.com/leonwu4951/Data-Science/blob/master/Regression-Classification/Project%201_files/Project%201_25_1.png)  |  ![](https://github.com/leonwu4951/Data-Science/blob/master/Regression-Classification/Project%201_files/Project%201_25_2.png)
+![](https://github.com/leonjwu/Data-Science/blob/master/Regression-Classification/Project%201_files/Project%201_25_1.png)  |  ![](https://github.com/leonjwu/Data-Science/blob/master/Regression-Classification/Project%201_files/Project%201_25_2.png)
 ---
 
 
