@@ -18,8 +18,27 @@ Community Detection using CNM  |  Clustering visualised with PCA
 ---
 
 
+
 ---
-# [Project 2: Exploring supervised Random Forests, Support Vector Machines and Neural Network in-depth for classification on noisy data in Python](https://github.com/leonjwu/Data-Science/blob/master/RF-SVM-NN/)
+# [Project 2: AI Hack 2019 - Overall Winners - Machine Learning for Train Route Planning](https://github.com/leonjwu/AIHack)
+
+## Overview
+- Placed 1st out of 50 teams in the AI Hackathon, competing against students from the best universities in the UK
+- Submitted a project on graph-based route planning that was chosen for presentation at Google DevFest
+- Utilised graph-based clustering, graph theory and large datasets for train route planning
+ 
+
+Poster
+:-----------------------------------:
+![](https://github.com/leonjwu/AIHack/blob/master/poster.jpg)
+---
+
+
+
+
+
+---
+# [Project 3: Exploring supervised Random Forests, Support Vector Machines and Neural Network in-depth for classification on noisy data in Python](https://github.com/leonjwu/Data-Science/blob/master/RF-SVM-NN/)
 
 ## Overview
 - Data Balancing and Standardisation Methodologies for predicting car ratings
@@ -35,7 +54,7 @@ Number of Trees for Random Forest  |  Hyperparameters of RBF kernel SVM
 
 
 ---
-# [Project 3: Exporing regression and classification methods including ridge and logitstic regression and Naïve Bayes classifiers in Python](https://github.com/leonjwu/Data-Science/blob/master/Regression-Classification/)
+# [Project 4: Exporing regression and classification methods including ridge and logitstic regression and Naïve Bayes classifiers in Python](https://github.com/leonjwu/Data-Science/blob/master/Regression-Classification/)
 
 ## Overview
 - Goal: Predicting climbing success rate from weather predictors
@@ -50,7 +69,7 @@ Ridge Regression hyperparameter tuning (CV)  |  Ridge Predictors against penalty
 ---
 
 ---
-# [Project 4: Recommender System for Academic Papers using Multidimensional Scaling in R](https://github.com/leonjwu/Paper-Configurations)
+# [Project 5: Recommender System for Academic Papers using Multidimensional Scaling in R](https://github.com/leonjwu/Paper-Configurations)
 
 ## Overview
 - Goal: Reveal configurations of academic papers so that a user can find targeted lists of research materials
@@ -63,21 +82,5 @@ Word Counts in Papers  |  Heatmap of Word Frequencies for Each Paper
 :-------------------------:|:-------------------------:
 ![](https://github.com/leonjwu/Paper-Configurations/blob/master/figures/1.jpg)  |  ![](https://github.com/leonjwu/paper-configurations/blob/master/figures/2.png)
 ---
-
-
----
-# [Project 5: AI Hack 2019 - Overall Winners - Machine Learning for Train Route Planning](https://github.com/leonjwu/AIHack)
-
-## Overview
-- Placed 1st out of 50 teams in the AI Hackathon, competing against students from the best universities in the UK
-- Submitted a project on graph-based route planning that was chosen for presentation at Google DevFest
-- Utilised graph-based clustering, graph theory and large datasets for train route planning
- 
-
-Poster
-:-----------------------------------:
-![](https://github.com/leonjwu/AIHack/blob/master/poster.jpg)
----
-
 
 
