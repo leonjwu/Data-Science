@@ -65,5 +65,19 @@ Word Counts in Papers  |  Heatmap of Word Frequencies for Each Paper
 ---
 
 
+---
+# [AI Hack 2019 - Overall Winners - Machine Learning for Train Route Planning](https://github.com/leonjwu/AIHack)
+
+## Overview
+- Placed 1st out of 50 teams in the AI Hackathon
+- Submitted a project on graph-based route planning that was chosen for presentation at Google DevFest
+- Utilised graph-based clustering, graph theory and large datasets for train route planning
+ 
+
+Poster
+:-----------------------------------:
+![](https://github.com/leonjwu/AIHack/blob/master/poster.jpg)
+---
+
 
 
